@@ -1,0 +1,1 @@
+ /Users/vladlyulin/Developer/project/рецепты/беха/recepti/.dart_tool/flutter_build/bb324cc033a34634e8f6c8393fc9fd50/native_assets.yaml: 
